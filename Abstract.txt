@@ -1,0 +1,2 @@
+Experiment 9
+Displaying a message in a 2 line X 16 Character LCD display.

@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\7p\Desktop\Project2\Project\main.uvproj
+Project File Date:  03/14/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(66): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+main.c(71): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+main.c(154): error:  #29: expected an expression
+main.c(154): error:  #17: expected a "]"
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(66): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+main.c(71): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+linking...
+Program Size: Code=5476 RO-data=168 RW-data=48 ZI-data=1160  
+FromELF: creating hex file...
+"main.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(66): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+main.c(71): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+linking...
+Program Size: Code=5488 RO-data=168 RW-data=48 ZI-data=1160  
+FromELF: creating hex file...
+"main.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(66): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+main.c(71): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "const char *"
+linking...
+Program Size: Code=5488 RO-data=168 RW-data=48 ZI-data=1160  
+FromELF: creating hex file...
+"main.axf" - 0 Error(s), 2 Warning(s).

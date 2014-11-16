@@ -1,0 +1,2 @@
+--device DARMP "startup.o" "main.o" "lcd.o" "adc.o" "uart.o" "pwm.o" --library_type=microlib --strict --scatter "main.sct" 
+--autoat --summary_stderr --info summarysizes -o "main.axf"

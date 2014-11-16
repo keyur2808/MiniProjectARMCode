@@ -1,0 +1,2 @@
+--device DARMP ".\obj\startup.o" ".\obj\retarget.o" ".\obj\main.o" ".\obj\lcd.o" --strict --scatter ".\Obj\Lcd.sct" 
+--autoat --summary_stderr --info summarysizes -o ".\Obj\Lcd.axf"

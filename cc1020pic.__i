@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -D__MICROLIB -g -O0 -I "C:\Keil\ARM\INC\Philips" -o "cc1020pic.o" --omf_browse "cc1020pic.crf" --depend "cc1020pic.d" "cc1020pic.c"

@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -D__MICROLIB -g -O0 -I "C:\Keil\ARM\INC\Philips" -o "adc.o" --omf_browse "adc.crf" --depend "adc.d" "adc.c"
